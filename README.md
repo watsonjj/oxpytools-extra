@@ -1,2 +1,2 @@
-# oxpytools-extra
-Extra files for oxpytools (test and example data, IPython notebooks)
+# targetpipe-extra
+Extra files for targetpipe (test and example data, IPython notebooks)
